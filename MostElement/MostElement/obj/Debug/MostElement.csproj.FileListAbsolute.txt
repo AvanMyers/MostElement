@@ -6,3 +6,11 @@ D:\C# Project\MostElement\MostElement\obj\Debug\MostElement.csproj.SuggestedBind
 D:\C# Project\MostElement\MostElement\obj\Debug\MostElement.csproj.CoreCompileInputs.cache
 D:\C# Project\MostElement\MostElement\obj\Debug\MostElement.exe
 D:\C# Project\MostElement\MostElement\obj\Debug\MostElement.pdb
+D:\GItHub\MostElement\MostElement\MostElement\bin\Debug\MostElement.exe.config
+D:\GItHub\MostElement\MostElement\MostElement\bin\Debug\MostElement.exe
+D:\GItHub\MostElement\MostElement\MostElement\bin\Debug\MostElement.pdb
+D:\GItHub\MostElement\MostElement\MostElement\obj\Debug\MostElement.csproj.AssemblyReference.cache
+D:\GItHub\MostElement\MostElement\MostElement\obj\Debug\MostElement.csproj.SuggestedBindingRedirects.cache
+D:\GItHub\MostElement\MostElement\MostElement\obj\Debug\MostElement.csproj.CoreCompileInputs.cache
+D:\GItHub\MostElement\MostElement\MostElement\obj\Debug\MostElement.exe
+D:\GItHub\MostElement\MostElement\MostElement\obj\Debug\MostElement.pdb

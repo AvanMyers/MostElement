@@ -17,6 +17,7 @@ namespace MostElement
             int maxRandom = 100; 
             int maxElement = 0;
             int maxElementPosition = 0;
+            int maxElementRow = 0;
             int replacementNumber = 0;
             int[,] array =  new int[arraySize, arrayDeep];
 
@@ -42,13 +43,13 @@ namespace MostElement
                     {
                         maxElement = array[i,j];
                         maxElementPosition = j;
+                        maxElementRow = i;
                     }
                 }
-
-                array[i, maxElementPosition] = replacementNumber;
-                maxElement= 0;
-                maxElementPosition = 0;
             }
+
+            array[maxElementRow, maxElementPosition] = replacementNumber;
+            Console.WriteLine($"Максимальное число в массиве {maxElement}\n");
 
             for (int i = 0; i < array.GetLength(0); i++)
             {
